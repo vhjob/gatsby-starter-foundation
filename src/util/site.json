@@ -5,7 +5,8 @@
     "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
     "siteUrl": "https://tosam.tk",
     "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@stackrole",
+    "Yanex-verify":"Yandex-pindex"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
