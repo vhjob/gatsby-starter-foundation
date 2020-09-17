@@ -19,8 +19,8 @@ const PostCard = ({ data }) => (
     }
     <div class="post-content">
       <h2 className="title"><Link to={data.frontmatter.slug}>{data.frontmatter.title}</Link></h2>
+      <p className="meta"><Link to={data.frontmatter.slug}>{data.frontmatter.description}</Link></p>
       <p className="meta"><time>{data.frontmatter.date}</time></p>
-      <p>{data.frontmatter.description}</p>
     </div>
   </article>
 )
