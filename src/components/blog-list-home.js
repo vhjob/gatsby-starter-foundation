@@ -32,6 +32,7 @@ export default function BlogListHome() {
                   date(formatString: "MMMM DD, YYYY")
                   slug
                   title
+                  description
                   featuredImage {
                     childImageSharp {
                       fluid(maxWidth: 540, maxHeight: 360, quality: 80) {
