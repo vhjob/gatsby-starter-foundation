@@ -2,11 +2,11 @@
   "meta": {
     "title": "Основание",
     "titleTemplate": "%s",
-    "description": "2020-09-16  A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "2020-09-16  A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. ",
     "siteUrl": "https://tosam.tk",
     "image": "/assets/stackrole.png",
     "twitterUsername": "@stackrole",
-    "Yanex-verify":"Yandex-pindex"
+    "Yanex-verify": "Yandex-pindex"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
