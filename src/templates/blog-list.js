@@ -21,6 +21,7 @@ export const blogListQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             slug
+            description
 						title
 						featuredImage {
 							childImageSharp {
