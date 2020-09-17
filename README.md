@@ -1,6 +1,14 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/63521b78-612e-4a2f-a409-3fa8009e7f3b/deploy-status)](https://app.netlify.com/sites/frosty-perlman-9da1cb/deploys) &nbsp;<a href="https://twitter.com/intent/follow?screen_name=stackrole">
+
+Текущий статус операции
+[![Netlify Status](https://api.netlify.com/api/v1/badges/63521b78-612e-4a2f-a409-3fa8009e7f3b/deploy-status)](https://app.netlify.com/sites/frosty-perlman-9da1cb/deploys) &nbsp;
+<a href="https://twitter.com/intent/follow?screen_name=stackrole">
   <img src="https://img.shields.io/twitter/follow/stackrole.svg?label=Follow%20@Stackrole" alt="Follow @stackrole" />
 </a>
+
+----------
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4ed96b42-af1d-4a4e-9d18-84af56bba59e/deploy-status)](https://app.netlify.com/sites/tosam/deploys)
 
 # Foundation Основание ! (tosam.tk)
 
