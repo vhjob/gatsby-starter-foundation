@@ -16,7 +16,9 @@ const Thanks = () => (
         color: "var(--primary-color)"
       }}/>
       <h1>Ваше сообщение направлено</h1>
-      <p>Благодарим за ваше обращение. Оно будет рассмотренно.</p>
+      <p>Благодарим за ваше обращение.</p>
+      <p><img stc="/assets/comanda-1.jpg alt="Мы готовим ответ." /></p>
+      <p> Оно уже нами рассматривается и мы готовим вам ответ.</p> 
       <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>На главную страницу</Link>
     </div>
 

@@ -22,9 +22,10 @@ const NotFound = () => (
         <p>Возможно, Вам стоит обратить внимание на ссылки, размещенные ниже.</p>
       </header>
       <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>Back to Homepage</Link>
-      <Link to="/contact" className="button -outline">Сообщите о своей находке <RiBugLine className="icon -right"/></Link>
-      <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>Перейдите в начало сайта</Link>
       <Link to="/contact" className="button -outline">Report this <RiBugLine className="icon -right"/></Link>
+      <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>Перейдите в начало сайта</Link>
+      <Link to="/contact" className="button -outline">Сообщите о своей находке <RiBugLine className="icon -right"/></Link>
+
     </div>
   </Layout>
 )

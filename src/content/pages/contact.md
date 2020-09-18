@@ -1,10 +1,8 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Отправить сообщение
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+Вы можете здесь что-либо сообщить нам. А мы, в сою очередь, когда-либо ответим Вам на ваше обращение. Скорее всего. 
+Во всяком случае, вы не должны терять надежду, что получите от нас какое-либо вразумительное сообщение. 
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
-
-А форма Где?
