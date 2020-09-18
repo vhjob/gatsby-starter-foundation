@@ -19,7 +19,7 @@ const NotFound = () => (
         <h1>Oops we did not expect that to happen...</h1>
         <h2>Вы реально попали на секретную страницу!!!</h2>       
         <p>Have you wondered into the unknow. Let us help you, Please take a look at below options</p>
-        Возможно, Вам стоит обратить внимание на ссылки, размещенные ниже.</p>
+        <p>Возможно, Вам стоит обратить внимание на ссылки, размещенные ниже.</p>
       </header>
       <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>Back to Homepage</Link>
       <Link to="/contact" className="button -outline">Сообщите о своей находке <RiBugLine className="icon -right"/></Link>
