@@ -58,7 +58,7 @@ const SEO = ({ title, description, image, article }) => {
       )}
 
       {seo.image && <meta name="twitter:image" content={seo.image} />}
-      <meta name="metateg-sergey" content=" здесь размещают метатеги" />
+      <meta name="metateg-sergey" content=" здесь размещают SERGEY метатеги" />
 
     </Helmet>
   )
