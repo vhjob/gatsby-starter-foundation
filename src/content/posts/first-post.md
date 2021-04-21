@@ -6,6 +6,11 @@ date: 2019-07-10T00:00:00.000Z
 description: sdasd
 featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
 ---
+
+Оригинальное имя файла:*first-post.md*
+
+
+
 Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
 
 That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** *And yet you haven't said what I told you to say!* How can any of us trust you?
@@ -52,7 +57,7 @@ Fatal. Maybe I love you so much I love you no matter who you are pretending to b
 
 Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
 
-
+Вставленная форма
 
 <form name="contact1" method="POST" data-netlify="true">
   <p>
