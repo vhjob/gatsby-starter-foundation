@@ -12,6 +12,10 @@ const MenuItems = [
     title: "Блог"
   },
   {
+    path: "/services",
+    title: "Услуги"
+  },
+  {
     path: "/about",
     title: "О сайте"
   },
