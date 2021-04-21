@@ -12,7 +12,7 @@ const MenuItems = [
     title: "Блог"
   },
   {
-    path: "/services",
+    path: "/servis",
     title: "Услуги"
   },
   {

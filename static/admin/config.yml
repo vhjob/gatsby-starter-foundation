@@ -69,6 +69,14 @@ collections:
             - name: "ctaLink"
               label: "CTA Link"
               widget: "string"
+      - label: "Servis"
+        name: "servis"
+        file: "src/content/pages/servis.md"
+        fields:
+        - {label: "Template", name: "template", widget: "hidden", default: "about-page" }
+        - {label: "Slug", name: "slug", widget: "hidden", default: "/servis" }
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Body", name: "body", widget: "markdown"}
       - label: "About"
         name: "about"
         file: "src/content/pages/about.md"
