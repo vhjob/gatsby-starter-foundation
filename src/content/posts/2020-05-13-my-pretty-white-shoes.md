@@ -14,4 +14,6 @@ Mixed content impacts the security and user experience of your site, and prevent
 
 We’ve added some information to your deploy log to help you find the problem. Most major browsers also provide tools to help you find and fix mixed content. They alert you about mixed content in the JavaScript console. To find this console, you can right-click in any page of your site, select “Inspect Element”, and then select “Console”.
 
+<img src="http://othersite.com/taste/image.png">
+
 Google’s Developer Guides provide a more extensive description about this problem and its solution.
