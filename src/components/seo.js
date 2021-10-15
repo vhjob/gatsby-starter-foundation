@@ -64,6 +64,9 @@ const SEO = ({ title, description, image, article }) => {
       <meta name="metateg-sergey" content=" здесь размещают SERGEY метатеги" />
 
     </Helmet>
+
+      <meta name="metateg-sergeyPAST" content=" здесь PAST размещают SERGEY метатеги" />
+
   )
 }
 
