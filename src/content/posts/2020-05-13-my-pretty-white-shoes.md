@@ -1,17 +1,23 @@
 ---
 template: blog-post
-title: Extreme gaming extravaganza
+title: Экстремальная игровая феерия
 slug: /gaming-extravaganza
-date: 2020-05-13 12:55
-description: >+
-  How we scaled an Extreme gaming extravaganza  you have enabled HTTPS on your
-  site, we’ve detected some content that’s still being served over an HTTP
-  connection.
-
+date: 2021-10-15 11:37
+description: >
+  Парадокс WEB-игр: вы включили HTTPS на своем сайте, и обнаружили некоторый
+  контент, который все еще обслуживается через HTTP-соединение. 
 featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
 ---
-Mixed content impacts the security and user experience of your site, and prevents browsers from protecting your users from malicious attacks.
+Смешанный контент влияет на безопасность и удобство использования вашего сайта, а также не позволяет браузерам защищать ваших пользователей от злонамеренных атак.
 
-We’ve added some information to your deploy log to help you find the problem. Most major browsers also provide tools to help you find and fix mixed content. They alert you about mixed content in the JavaScript console. To find this console, you can right-click in any page of your site, select “Inspect Element”, and then select “Console”.
+Мы добавили в ваш журнал развертывания некоторую информацию, чтобы помочь вам найти проблему. Большинство основных браузеров также предоставляют инструменты, которые помогут вам найти и исправить смешанный контент. Они предупреждают вас о смешанном содержимом в консоли JavaScript. Чтобы найти эту консоль, вы можете щелкнуть правой кнопкой мыши на любой странице вашего сайта, выбрать «Проверить элемент», а затем выбрать «Консоль». 
 
-Google’s Developer Guides provide a more extensive description about this problem and its solution.
+Вы увидите процесс, похожий на изображение ниже.
+
+<img src="https://d.radikal.ru/d07/2110/9f/20ff9896c35f.gif">
+<span style="font-size:0.2em">(GIF Artist. Creator of the GIF Artists Collective.
+pi-slices@hotmail.com URL: pislices.art)</span>
+
+
+Руководства для разработчиков Google содержат более подробное описание этой проблемы и способов ее решения.
+
