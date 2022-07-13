@@ -2,7 +2,7 @@
 template: blog-post
 title: Sesame Momos & Gaming
 slug: /sesame-momos
-date: 202-07-13 11:12
+date: 2022-07-13 11:12
 description: Sesame Momos
 featuredImage: /assets/charles-deluvio-d-vdqmtfaau-unsplash.jpg
 ---
