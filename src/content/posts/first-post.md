@@ -10,6 +10,7 @@ featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
 Оригинальное имя файла:*first-post.md*
 
 
+Attempted!
 
 Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
 
@@ -81,5 +82,5 @@ Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, b
 </form>
 
 
-А эито послеформа
+А это послеформа. Ошибка была исправлена. Осталось посмотреть на файле
 
